@@ -1,6 +1,7 @@
 # zc-rest-client
 自己实现的一个restclient，测试案例请启动BootstrapTest类
 由于项目是单纯的maven项目，简单起见，使用了python flask来进行模拟服务端交互
+服务端程序子为HTTPServer/index.py
 
 运行需要安装flask
 pip install flask
