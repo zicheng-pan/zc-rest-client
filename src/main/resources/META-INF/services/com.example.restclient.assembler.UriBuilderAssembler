@@ -1,0 +1,2 @@
+com.example.restclient.assembler.PathParamUriBuilderAssembler
+com.example.restclient.assembler.QueryParamUriBuilderAssembler
