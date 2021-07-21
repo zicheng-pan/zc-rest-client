@@ -24,8 +24,8 @@ public class BootstrapTest {
         String result3 = service.postShutDown();
         System.out.println(result3);
 
-        //TODO 后续可以讲http请求修改成异步，或者使用第三方的库micro
+        //TODO 后续可以讲http请求修改成异步，或者使用第三方的库 MicroProfile REST Client
         //如果请求是异步的需要阻塞不然main程序很快退出了没有看到返回的结果
-//        new Scanner(System.in).hasNext();
+        //new Scanner(System.in).hasNext();
     }
 }
